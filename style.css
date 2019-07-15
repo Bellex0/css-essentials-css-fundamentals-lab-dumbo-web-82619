@@ -21,6 +21,9 @@ font-size: 15px;
 text-align: center;
 }
 #details {display: block}
-#details div {float: left}
+#details div {float: left;
+background-color: gray;
+width: 25%;
+}
 
 
